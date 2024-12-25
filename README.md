@@ -1,14 +1,3 @@
-## 2024 最佳开源项目
-
-- OpenGithub社区：https://open.itc.cn/
-- Github : https://github.com/OpenGithubs
-- Github 2023:https://github.com/OpenGithubs/Summary2023
-
-## 2024
-
-- 每周开源项目飙升榜:https://github.com/OpenGithubs/github-weekly-rank
-
-
 ## 2024 潜力排行榜
 
 | 序号         | 标题         | 荣誉值          | 项目地址        | 语言      | 开源时间   | 项目最后更新时间 |
