@@ -4,6 +4,7 @@
 - 微信公众号社区: >>[进入](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkzOTQ5Mzk0NA==&action=getalbum&album_id=2943875821830864900&scene=173&subscene=227&sessionid=1724741336&enterid=1724741344&from_msgid=2247486556&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
 - 头条社区: >>[进入](https://www.toutiao.com/c/user/token/MS4wLjABAAAAmvfOws0L3K53LliyFX5JSmIS3b8RmD4dj_uwATFbgu4/)
 - 知乎社区: >>[进入](https://www.zhihu.com/people/OpenGithub)
+- 项目地址: https://github.com/OpenGithubs/Summary2024
 - 日飙升榜: https://github.com/OpenGithubs/github-daily-rank
 - 周飙升榜: https://github.com/OpenGithubs/github-weekly-rank
 - 月飙升榜: https://github.com/OpenGithubs/github-monthly-rank
