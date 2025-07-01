@@ -8,6 +8,10 @@
 - 周飙升榜: https://github.com/OpenGithubs/github-weekly-rank
 - 月飙升榜: https://github.com/OpenGithubs/github-monthly-rank
 
+**关注我们:**
+
+<img class="avatar-img " style="width:400px;height:220px;" src="https://github.com/OpenGithubs/OpenGithubs/blob/main/contact.png" alt="">
+
 
 | 序号         | 标题         | 荣誉值           |开源时间       | 项目地址        | 语言      |
 |------------|---------------|---------------- |--------------|------------|------------- |
